@@ -1,0 +1,16 @@
+body {
+  background-color: blue;
+}
+
+#heading {
+  text-align: center;
+  color: white;
+  font-size: 3em;
+}
+
+.my-input {
+  display: block;
+  width: 100%;
+  font-size: 2em;
+  border-radius: 10px;
+}
